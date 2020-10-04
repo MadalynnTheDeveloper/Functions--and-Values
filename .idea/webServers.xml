@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e06d1d2-a02e-4540-87ba-3c1bf36c2a5f" name="HTML-CSS" url="https://bootcamp.coders.cnm.edu/~msandoval234/project-html-css">
+        <fileTransfer rootFolder="/home/msandoval234//public_html/project-html-css" accessType="SFTP" host="bootcamp-coders.cnm.edu" port="22" sshConfigId="94fafa6f-ecb6-4a12-a338-04d429368c3e" sshConfig="msandoval234@bootcamp-coders.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
